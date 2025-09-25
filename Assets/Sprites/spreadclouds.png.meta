@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: 9e4a18f8494df324ab7a3812d092bab4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7260370255832494101
+    second: spreadclouds_0
+  - first:
+      213: -5297880544214116571
+    second: spreadclouds_1
+  - first:
+      213: -8623393498217051706
+    second: spreadclouds_2
+  - first:
+      213: 8454258728699212081
+    second: spreadclouds_3
+  - first:
+      213: 1317568422195074293
+    second: spreadclouds_4
+  - first:
+      213: 442746719993651283
+    second: spreadclouds_5
+  - first:
+      213: 8286981300341913930
+    second: spreadclouds_6
+  - first:
+      213: 8087122563560040306
+    second: spreadclouds_7
+  - first:
+      213: -6184991534444246722
+    second: spreadclouds_8
+  - first:
+      213: -8408601098951294823
+    second: spreadclouds_9
+  - first:
+      213: -2373216512985459141
+    second: spreadclouds_10
+  - first:
+      213: -8536997868308939320
+    second: spreadclouds_11
+  - first:
+      213: -4763505830842521091
+    second: spreadclouds_12
+  - first:
+      213: 2130578034555172580
+    second: spreadclouds_13
+  - first:
+      213: 538413287574476659
+    second: spreadclouds_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spreadclouds_0
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 581
+        width: 111
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51035b4d74402c460800000000000000
+      internalID: 7260370255832494101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spreadclouds_1
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 508
+        width: 288
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5271aa3e6b52a76b0800000000000000
+      internalID: -5297880544214116571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spreadclouds_2
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 471
+        width: 305
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c90c545d4d835880800000000000000
+      internalID: -8623393498217051706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spreadclouds_3
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 402
+        width: 351
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 131bc5b658f835570800000000000000
+      internalID: 8454258728699212081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spreadclouds_4
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 340
+        width: 150
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4953ccf71f84210800000000000000
+      internalID: 1317568422195074293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spreadclouds_5
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 325
+        width: 129
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 350e0bacbc3f42600800000000000000
+      internalID: 442746719993651283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spreadclouds_6
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 237
+        width: 240
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a493f2b1695410370800000000000000
+      internalID: 8286981300341913930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spreadclouds_7
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 321
+        width: 28
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277ea08cf1b3b3070800000000000000
+      internalID: 8087122563560040306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spreadclouds_8
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 256
+        width: 155
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3907aa08fe7a2aa0800000000000000
+      internalID: -6184991534444246722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spreadclouds_9
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 237
+        width: 135
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9908c07e9d5ae4b80800000000000000
+      internalID: -8408601098951294823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spreadclouds_10
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 236
+        width: 149
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b361960c724a01fd0800000000000000
+      internalID: -2373216512985459141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spreadclouds_11
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 61
+        width: 124
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cdbd237bad768980800000000000000
+      internalID: -8536997868308939320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spreadclouds_12
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 47
+        width: 233
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df9212b5fa0a4edb0800000000000000
+      internalID: -4763505830842521091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spreadclouds_13
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 55
+        width: 203
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e639e32f65519d10800000000000000
+      internalID: 2130578034555172580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spreadclouds_14
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 70
+        width: 329
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3771a3c4804d87700800000000000000
+      internalID: 538413287574476659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      spreadclouds_0: 7260370255832494101
+      spreadclouds_1: -5297880544214116571
+      spreadclouds_10: -2373216512985459141
+      spreadclouds_11: -8536997868308939320
+      spreadclouds_12: -4763505830842521091
+      spreadclouds_13: 2130578034555172580
+      spreadclouds_14: 538413287574476659
+      spreadclouds_2: -8623393498217051706
+      spreadclouds_3: 8454258728699212081
+      spreadclouds_4: 1317568422195074293
+      spreadclouds_5: 442746719993651283
+      spreadclouds_6: 8286981300341913930
+      spreadclouds_7: 8087122563560040306
+      spreadclouds_8: -6184991534444246722
+      spreadclouds_9: -8408601098951294823
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

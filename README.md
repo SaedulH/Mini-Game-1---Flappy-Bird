@@ -11,6 +11,7 @@ A Flappy Bird-style game built using Unity Engine as my first structured introdu
 
 ## Gameplay 
 Clone and build this project in Unity to Play:
+### 🔗 `https://github.com/SaedulH/Mini-Game-1---Flappy-Bird.git`
 
 <img src="./Assets/Gifs/FlappyBirdGameplayGIF.gif" width="800"/>
 

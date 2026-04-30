@@ -1,4 +1,4 @@
-#  Flappy Bird Clone — 🐤
+#  Flappy Bird Clone
 
 A Flappy Bird-style game built using Unity Engine as my first structured introduction to game development. The focus of this project was to:
 - Apply experience with C# to development a game with full gameplay loop and replayabilty / score tracking.
@@ -10,6 +10,8 @@ A Flappy Bird-style game built using Unity Engine as my first structured introdu
 - Introduction into 2D Sprite Art.
 
 ## Gameplay 
+Press Space/Left Click to thrust the player upwards, avoid the obstacles for as long as possible.
+
 Clone and build this project in Unity to Play:
 ### 🔗 `https://github.com/SaedulH/Mini-Game-1---Flappy-Bird.git`
 

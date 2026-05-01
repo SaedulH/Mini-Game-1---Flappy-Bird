@@ -20,12 +20,12 @@ Clone and build this project in Unity to Play:
 <img src="./Assets/Gifs/GameOverPng.png" width="800"/>
 
 
-### Challenges
+## Challenges
 - Game feel tuning: Adjusted gravity and jump force for responsiveness.
 - System timing: Moved effects to event-driven triggers for consistency.
 - Performance awareness: Learned early concepts of reuse and cleanup.
 
-### 🚀 If I revisited this project
+## Future Considerations
 - Add object pooling for better performance and cleaner spawning
 - Improve difficulty progression over time
 - Polish UI transitions and game states
